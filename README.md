@@ -18,4 +18,9 @@ Here are some ideas to get you started:
 
 
 <img src="https://img.shields.io/badge/Java-%23ED1944.svg?&style=for-the-badge&logo=openstack&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript%20ar-%23FF5C83.svg?&style=for-the-badge&logo=spark%20ar&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS-%23E00033.svg?&style=for-the-badge&logo=strongswan&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-%23F94877.svg?&style=for-the-badge&logo=foursquare&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%23FF4785.svg?&style=for-the-badge&logo=storybook&logoColor=white" />
 
