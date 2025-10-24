@@ -6,9 +6,9 @@ Here are some ideas to get you started:
 
 
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YUJIN's%20GITHUB&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=YUJIN's%20GITHUB&fontSize=90)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yj08-80)](https://github.com/yj08-80/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=swift_icons=true)
 
 ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yj08-80)]([벨로그링크](https://velog.io/@yj08_80/posts))
 
