@@ -14,11 +14,8 @@ Here are some ideas to get you started:
 
 
 // 아이콘
-
-<div>백엔드</div>
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-%23F94877.svg?&style=for-the-badge&logo=foursquare&logoColor=white" />
-<div>프론트엔드</div>
+<img src="https://img.shields.io/badge/Spring-%23F94877.svg?&style=for-the-badge&logo=foursquare&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-%23FF4785.svg?&style=for-the-badge&logo=storybook&logoColor=white" />
