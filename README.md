@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YUJIN's%20GITHUB&fontSize=90)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/깃허브아이디/github-readme-stats)
 
 ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=벨로그아이디)](벨로그링크)
 
