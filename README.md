@@ -6,11 +6,11 @@
   
 </div>
 
-[![GIT](https://img.shields.io/badge/GIT-black?style=flat-square&logo=githubpages&logoColor=white)](https://www.canva.com/design/DAG3U9QDyGM/KVEyS4WMsemsHtI9VtEwrQ/edit)
+[![Portfolio](https://img.shields.io/badge/개인포트폴리오-black?style=flat-square&logo=githubpages&logoColor=white)](https://www.canva.com/design/DAG3U9QDyGM/KVEyS4WMsemsHtI9VtEwrQ/edit)
 
 [![velog Blog](https://img.shields.io/badge/VELOG-BLOG-E7600A?style=flat-square&logo=tistory&logoColor=white)](https://velog.io/@yj08_80/posts)
 
-[![Portfolio](https://img.shields.io/badge/개인포트폴리오-black?style=flat-square&logo=githubpages&logoColor=white)](https://www.canva.com/design/DAG3U9QDyGM/KVEyS4WMsemsHtI9VtEwrQ/edit)
+
 ## 💡 About Me
 
 - 프론트엔드 백엔드 풀스택 웹(앱)개발
