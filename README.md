@@ -6,7 +6,7 @@
   
 </div>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://www.canva.com/design/DAG3U9QDyGM/KVEyS4WMsemsHtI9VtEwrQ/edit)
+[![Portfolio](https://img.shields.io/badge/GIT.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://www.canva.com/design/DAG3U9QDyGM/KVEyS4WMsemsHtI9VtEwrQ/edit)
 
 [![velog Blog](https://img.shields.io/badge/VELOG-BLOG-E7600A?style=flat-square&logo=tistory&logoColor=white)](https://velog.io/@yj08_80/posts)
 ## 💡 About Me
