@@ -6,9 +6,11 @@
   
 </div>
 
-[![Portfolio](https://img.shields.io/badge/GIT.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://www.canva.com/design/DAG3U9QDyGM/KVEyS4WMsemsHtI9VtEwrQ/edit)
+[![GIT](https://img.shields.io/badge/GIT.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://www.canva.com/design/DAG3U9QDyGM/KVEyS4WMsemsHtI9VtEwrQ/edit)
 
 [![velog Blog](https://img.shields.io/badge/VELOG-BLOG-E7600A?style=flat-square&logo=tistory&logoColor=white)](https://velog.io/@yj08_80/posts)
+
+[![Portfolio](https://img.shields.io/badge/GIT.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://www.canva.com/design/DAG3U9QDyGM/KVEyS4WMsemsHtI9VtEwrQ/edit)
 ## 💡 About Me
 
 - 프론트엔드 백엔드 풀스택 웹(앱)개발
@@ -76,6 +78,32 @@
 - **최동진**: 기획, (구)프로토타입, 관리자단 교육 & 시험 & 회원, 관리자단 UI, 랭킹, 자동 번역 API, TTS API
 
 [![GIT](https://img.shields.io/badge/재밌는한국어GIT.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://github.com/rutaku12rutaku12/sayKorean/edit/master/README.md)
+[![Portfolio](https://img.shields.io/badge/GIT.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://www.canva.com/design/DAG3J_oJgsE/IHlOeCYRKxjNR_XsXvBaYw/edit)
+
+
+
+### FairRoad
+
+#### 주제
+Spring Boot 기반 “박람회 정보 통합 제공 플랫폼” 웹/앱 구현
+
+#### 간단한소개
+사용자에게 박람회 정보를 하나의 플랫폼에서 통합 제공하여, 사용자가 손쉽게 접근하고 비교·선택할 수 있도록 지원하는 앱/웹을 구현
+
+#### 전체일정
+- 프로젝트 기간 : 2025-08-21 ~ 2025-09-12
+- 프로젝트 설계 : 2025-08-21 ~ 2025-08-29
+- 1차 중간점검 : 2025-09-04
+- 프로젝트 발표 : 2025-09-12
+
+### 팀원별 담당 기능
+**정유진** : 조장, 박람회 리뷰,알림 기능, 프로젝트 일정 관리. 리뷰 등록 / 수정, 삭제 / 조회, 박람회 알림
+**이겨레(발표)** : 박람회 추천 기능, 방문 로그 저장, 추천 알고리즘 조회, 카테고리 조회 
+**이찬영(캔바)** : 박람회 등록/조회 기능, 박람회 등록 / 수정, 박람회 조회, 즐겨찾기 등록/취소
+**정은주(GIT)** : 회원 관련 기능, 회원 등록 / 수정, 조회 / 삭제, 즐겨찾기 조회 / 삭제
+
+[![GIT](https://img.shields.io/badge/FairRoadGIT.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://github.com/juju9595/fairroad_project)
+[![Portfolio](https://img.shields.io/badge/GIT.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://www.canva.com/design/DAGyWPx6Hno/52lneAxKu9Jvg46n8srU8Q/edit)
 
 
 
