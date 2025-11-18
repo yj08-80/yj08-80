@@ -7,7 +7,8 @@
 </div>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://www.canva.com/design/DAG3U9QDyGM/KVEyS4WMsemsHtI9VtEwrQ/edit)
-[!Belog Blog](https://img.shields.io/badge/BELOG-BLOG-E7600A?style=flat-square&logo=tistory&logoColor=white)](https://velog.io/@yj08_80/posts)
+
+[!Belog Blog](https://img.shields.io/badge/BELOG-BLOG-E7600A?style=flat-square&logo=belog&logoColor=white)](https://velog.io/@yj08_80/posts)
 
 ## 💡 About Me
 
