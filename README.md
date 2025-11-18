@@ -77,8 +77,8 @@
 - **최규호**: 사용자 계정, 소셜 로그인, 비밀번호 암호화, 출석, 로딩, 로봇 감지 API
 - **최동진**: 기획, (구)프로토타입, 관리자단 교육 & 시험 & 회원, 관리자단 UI, 랭킹, 자동 번역 API, TTS API
 
-[![GIT](https://img.shields.io/badge/재밌는한국어GIT.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://github.com/rutaku12rutaku12/sayKorean/edit/master/README.md)
-[![Portfolio](https://img.shields.io/badge/GIT.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://www.canva.com/design/DAG3J_oJgsE/IHlOeCYRKxjNR_XsXvBaYw/edit)
+[![GIT](https://img.shields.io/badge/재밌는한국어GIT-black?style=flat-square&logo=githubpages&logoColor=white)](https://github.com/rutaku12rutaku12/sayKorean/edit/master/README.md)
+[![Portfolio](https://img.shields.io/badge/재밌는한국어_포트폴리오-black?style=flat-square&logo=githubpages&logoColor=white)](https://www.canva.com/design/DAG3J_oJgsE/IHlOeCYRKxjNR_XsXvBaYw/edit)
 
 
 
@@ -102,8 +102,8 @@ Spring Boot 기반 “박람회 정보 통합 제공 플랫폼” 웹/앱 구현
 - **이찬영(캔바)** : 박람회 등록/조회 기능, 박람회 등록 / 수정, 박람회 조회, 즐겨찾기 등록/취소
 - **정은주(GIT)** : 회원 관련 기능, 회원 등록 / 수정, 조회 / 삭제, 즐겨찾기 조회 / 삭제
 
-[![GIT](https://img.shields.io/badge/FairRoadGIT.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://github.com/juju9595/fairroad_project)
-[![Portfolio](https://img.shields.io/badge/GIT.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://www.canva.com/design/DAGyWPx6Hno/52lneAxKu9Jvg46n8srU8Q/edit)
+[![GIT](https://img.shields.io/badge/페어로드GIT.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://github.com/juju9595/fairroad_project)
+[![Portfolio](https://img.shields.io/badge/페어로드_포트폴리오-black?style=flat-square&logo=githubpages&logoColor=white)](https://www.canva.com/design/DAGyWPx6Hno/52lneAxKu9Jvg46n8srU8Q/edit)
 
 
 
