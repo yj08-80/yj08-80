@@ -6,8 +6,8 @@
   
 </div>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-yj08-80.github.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://github.com/yj08-80)
-[![Tistory Blog](https://img.shields.io/badge/TISTORY-BLOG-E7600A?style=flat-square&logo=tistory&logoColor=white)](https://velog.io/@yj08_80/posts)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://www.canva.com/design/DAG3U9QDyGM/KVEyS4WMsemsHtI9VtEwrQ/edit)
+[!Belog Blog](https://img.shields.io/badge/BELOG-BLOG-E7600A?style=flat-square&logo=tistory&logoColor=white)](https://velog.io/@yj08_80/posts)
 
 ## 💡 About Me
 
@@ -42,7 +42,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
-![MySQL]("https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white")
 
 
 ## 📊 Top Languages Card
