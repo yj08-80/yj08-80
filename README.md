@@ -1,24 +1,2 @@
 
-<!--
-**yj08-80/yj08-80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?yj08-80=anuraghazra&theme=swift_icons=true)
-
-![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yj08-80)]([벨로그링크](https://velog.io/@yj08_80/posts)) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=YUJIN's%20GITHUB&fontSize=90)
-
-
-<!-- 아이콘 -->
-<!-- <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-%23F94877.svg?&style=for-the-badge&logo=foursquare&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%23FF4785.svg?&style=for-the-badge&logo=storybook&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> -->
-
+<img src="https://capsule-render.vercel.app/api?type=rounded&color="#eeeeee"&height=150px&section=header&text="정유진의 Git"&fontSize=20px" />
