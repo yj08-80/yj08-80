@@ -102,7 +102,7 @@ Spring Boot 기반 “박람회 정보 통합 제공 플랫폼” 웹/앱 구현
 - **이찬영(캔바)** : 박람회 등록/조회 기능, 박람회 등록 / 수정, 박람회 조회, 즐겨찾기 등록/취소
 - **정은주(GIT)** : 회원 관련 기능, 회원 등록 / 수정, 조회 / 삭제, 즐겨찾기 조회 / 삭제
 
-[![GIT](https://img.shields.io/badge/페어로드GIT.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://github.com/juju9595/fairroad_project)
+[![GIT](https://img.shields.io/badge/페어로드GIT-black?style=flat-square&logo=githubpages&logoColor=white)](https://github.com/juju9595/fairroad_project)
 [![Portfolio](https://img.shields.io/badge/페어로드_포트폴리오-black?style=flat-square&logo=githubpages&logoColor=white)](https://www.canva.com/design/DAGyWPx6Hno/52lneAxKu9Jvg46n8srU8Q/edit)
 
 
