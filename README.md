@@ -82,7 +82,8 @@
 
 
 
-## FairRoad
+## <img src="https://github.com/rutaku12rutaku12/sayKorean/blob/master/src/main/resources/static/img
+/icon.jpg" width="100" height="100"/> FairRoad 
 
 #### 주제
 Spring Boot 기반 “박람회 정보 통합 제공 플랫폼” 웹/앱 구현
